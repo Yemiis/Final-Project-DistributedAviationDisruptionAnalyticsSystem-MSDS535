@@ -1,0 +1,51 @@
+date,airport,airline,origin,destination,cancellation_reason
+2/28/26,Dubai International (DXB),Emirates,DXB,IKA,Airspace closed - Iranian FIR shutdown
+2/28/26,Tehran Imam Khomeini (IKA),Iran Air,IKA,DXB,Airspace closed - CAOI emergency NOTAM
+2/28/26,Ben Gurion International (TLV),El Al,TLV,JFK,Full airspace closure - IAA emergency
+2/28/26,Ben Gurion International (TLV),Wizz Air,TLV,LTN,Full airspace closure - IAA emergency
+3/1/26,Hamad International (DOH),Qatar Airways,DOH,IKA,Destination airspace closed
+3/1/26,Hamad International (DOH),Qatar Airways,DOH,THR,Destination airspace closed
+3/1/26,Dubai International (DXB),Emirates,DXB,IKA,Airspace closed - Iranian FIR shutdown
+3/1/26,Dubai International (DXB),flydubai,DXB,MHD,Destination country closed
+3/1/26,Dubai International (DXB),flydubai,DXB,AWZ,Destination airspace restriction
+3/1/26,Kuwait International (KWI),Kuwait Airways,KWI,IKA,Airspace closed - conflict proximity
+3/1/26,Bahrain International (BAH),Gulf Air,BAH,IKA,Airspace closed - conflict proximity
+3/1/26,King Abdulaziz International (JED),Saudia,JED,IKA,Precautionary cancellation - conflict zone
+3/1/26,King Khalid International (RUH),Saudia,RUH,IKA,Precautionary cancellation
+3/1/26,Ataturk / Istanbul Airport (IST),Turkish Airlines,IST,IKA,Airspace closure - Iranian FIR
+3/1/26,Ataturk / Istanbul Airport (IST),Turkish Airlines,IST,THR,Airspace closure - Iranian FIR
+3/1/26,Ataturk / Istanbul Airport (IST),Turkish Airlines,IST,MHD,Airspace closure - Iranian FIR
+3/1/26,Sheremetyevo International (SVO),Aeroflot,SVO,IKA,Airspace closed - Iranian FIR
+3/1/26,Heathrow (LHR),British Airways,LHR,DXB,Precautionary Gulf sector reroute
+3/1/26,Frankfurt (FRA),Lufthansa,FRA,DXB,Precautionary Gulf routing advisory
+3/1/26,Charles de Gaulle (CDG),Air France,CDG,DXB,Precautionary Gulf sector deviation
+3/1/26,Indira Gandhi International (DEL),Air India,DEL,DXB,Precautionary advisory - Gulf routing
+3/1/26,Muscat International (MCT),Oman Air,MCT,IKA,Airspace closure
+3/1/26,Muscat International (MCT),Oman Air,MCT,KIH,Airspace closure
+3/2/26,Hamad International (DOH),Qatar Airways,DOH,BND,Airspace closed - Iranian FIR
+3/2/26,Dubai International (DXB),Emirates,DXB,IKA,Airspace closure continued
+3/2/26,Dubai International (DXB),Etihad Airways,DXB,IKA,Airspace closure continued
+3/2/26,Ben Gurion International (TLV),El Al,TLV,LAX,Full airspace closure - IAA emergency
+3/2/26,King Abdulaziz International (JED),Saudia,JED,BND,Airspace closure - conflict zone
+3/2/26,Ataturk / Istanbul Airport (IST),Turkish Airlines,IST,AWZ,Airspace closure - Iranian FIR
+3/2/26,Baku International (GYD),AZAL,GYD,IKA,Airspace closed adjacently
+3/2/26,Karachi Jinnah International (KHI),PIA,KHI,IKA,Precautionary cancellation
+3/2/26,Lahore Allama Iqbal (LHE),PIA,LHE,IKA,Precautionary cancellation
+3/3/26,Hamad International (DOH),Qatar Airways,DOH,IKA,Airspace closed - ongoing conflict
+3/3/26,Heathrow (LHR),British Airways,LHR,DXB,Precautionary Gulf sector concern
+3/3/26,Amsterdam Schiphol (AMS),KLM,AMS,DXB,Precautionary Gulf routing
+3/3/26,Dubai International (DXB),Emirates,DXB,KIH,Destination airspace restricted
+3/4/26,Dubai International (DXB),flydubai,DXB,IFN,Destination airspace restricted
+3/4/26,Hamad International (DOH),Qatar Airways,DOH,MHD,Destination airspace restricted
+3/4/26,King Khalid International (RUH),Saudia,RUH,MHD,Airspace closure
+3/5/26,Ben Gurion International (TLV),El Al,TLV,CDG,Full airspace closure continues
+3/5/26,Istanbul Airport (IST),Turkish Airlines,IST,IKA,Airspace closure - day 6
+3/5/26,Sheremetyevo International (SVO),Aeroflot,SVO,MHD,Airspace advisory
+3/6/26,Dubai International (DXB),Emirates,DXB,IKA,Airspace still closed
+3/6/26,Muscat International (MCT),Oman Air,MCT,IFN,Destination airspace closure
+3/6/26,Amman Queen Alia (AMM),Royal Jordanian,AMM,IKA,Airspace closed
+3/7/26,Hamad International (DOH),Qatar Airways,DOH,IKA,Airspace closure Day 8
+3/7/26,King Abdulaziz International (JED),Saudia,JED,IKA,Airspace closure Day 8
+3/7/26,Dubai International (DXB),Emirates,DXB,IKA,Airspace closure Day 8
+3/7/26,Heathrow (LHR),British Airways,LHR,DXB,Gulf sector precautionary advisory
+3/7/26,Frankfurt (FRA),Lufthansa,FRA,DXB,Precautionary Gulf sector deviation

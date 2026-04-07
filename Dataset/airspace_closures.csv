@@ -1,0 +1,26 @@
+country,region,closure_reason
+Iran,Tehran FIR,Active conflict - military operations
+Iran,Esfahan FIR,Active conflict - airspace militarization
+Iraq,Baghdad FIR,Proximity to conflict zone - EASA Level 2 advisory
+Saudi Arabia,Jeddah FIR,Precautionary airspace restriction - missile threat
+UAE,Emirates FIR,Temporary SIGMET - unknown airborne objects
+Kuwait,Kuwait FIR,Conflict proximity advisory - restricted below FL250
+Bahrain,Bahrain FIR,Military NOTAM - airspace reserved for coalition forces
+Oman,Muscat FIR,Precautionary route restriction FL290 and below
+Pakistan,Karachi FIR,Airspace restriction - conflict zone buffer protocol
+Jordan,Amman FIR,Precautionary closure - proximity to Iranian airspace
+Israel,Tel Aviv FIR,Active military engagement - FL000-FL600 closed
+Turkey,Ankara FIR,Precautionary advisory - eastern sector restriction
+Azerbaijan,Baku FIR,Active conflict proximity - northern Iran border buffer
+Turkmenistan,Ashgabat FIR,Precautionary restriction - eastern Iran border zone
+Afghanistan,Kabul FIR,Full airspace closure - conflict spillover risk
+Armenia,Yerevan FIR,Precautionary restriction - EASA Level 1 advisory
+Georgia,Tbilisi FIR,Precautionary NOTAM - southern route restriction
+India,Mumbai FIR,Precautionary deviation advisory - Gulf of Oman routing
+Russia,Moscow FIR (South),Voluntary routing restriction - Caspian sector
+Egypt,Cairo FIR,Precautionary advisory - eastern Mediterranean routing
+Cyprus,Nicosia FIR,Precautionary restriction - eastern Mediterranean sector
+Greece,Athens FIR,Advisory restriction - Aegean eastern sector
+Qatar,Doha FIR,Precautionary restriction - Gulf airspace buffer
+Kazakhstan,Almaty FIR,Precautionary restriction - Caspian Sea sector
+Yemen,Sana'a FIR,Conflict zone - active operations

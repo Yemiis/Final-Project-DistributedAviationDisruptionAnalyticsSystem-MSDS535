@@ -1,0 +1,36 @@
+airport,country,flights_cancelled,flights_delayed,flights_diverted,runway_status
+Dubai International,UAE,87,112,24,FULLY OPERATIONAL
+Hamad International,Qatar,62,78,18,FULLY OPERATIONAL
+Ben Gurion International,Israel,128,41,0,RESTRICTED - Security Alert
+Istanbul Airport,Turkey,44,67,12,FULLY OPERATIONAL
+Muscat International,Oman,38,54,10,FULLY OPERATIONAL
+Heathrow,UK,22,44,6,FULLY OPERATIONAL
+Kuwait International,Kuwait,46,58,14,RESTRICTED - Conflict Proximity
+Bahrain International,Bahrain,34,48,10,RESTRICTED - Military Sector
+King Abdulaziz International,Saudi Arabia,52,71,15,FULLY OPERATIONAL
+King Khalid International,Saudi Arabia,41,58,13,FULLY OPERATIONAL
+Baku International,Azerbaijan,28,36,8,RESTRICTED - Airspace Buffer
+Karachi Jinnah International,Pakistan,35,44,10,RESTRICTED - NOTAM Active
+Lahore Allama Iqbal,Pakistan,22,31,7,RESTRICTED - NOTAM Active
+Amman Queen Alia,Jordan,24,35,8,FULLY OPERATIONAL
+Frankfurt,Germany,18,32,5,FULLY OPERATIONAL
+Charles de Gaulle,France,16,28,4,FULLY OPERATIONAL
+Amsterdam Schiphol,Netherlands,15,27,4,FULLY OPERATIONAL
+Tehran Imam Khomeini,Iran,210,0,0,CLOSED - Conflict Zone
+Mashhad International,Iran,62,0,0,CLOSED - Conflict Zone
+Isfahan International,Iran,48,0,0,CLOSED - Conflict Zone
+Shiraz International,Iran,36,0,0,CLOSED - Conflict Zone
+Indira Gandhi International,India,28,38,7,FULLY OPERATIONAL
+Abu Dhabi International,UAE,42,56,13,FULLY OPERATIONAL
+Sharjah International,UAE,31,41,9,FULLY OPERATIONAL
+Domodedovo International,Russia,18,24,5,PARTIALLY RESTRICTED
+Sheremetyevo International,Russia,21,28,6,PARTIALLY RESTRICTED
+Cairo International,Egypt,14,22,4,FULLY OPERATIONAL
+Larnaca International,Cyprus,12,18,3,ADVISORY ACTIVE
+Yerevan Zvartnots,Armenia,16,22,5,RESTRICTED - NOTAM Active
+Tbilisi International,Georgia,12,16,4,PARTIALLY RESTRICTED
+Princess Juliana / Curacao,Aruba,3,5,1,FULLY OPERATIONAL
+Singapore Changi,Singapore,15,22,4,FULLY OPERATIONAL
+Hong Kong International,Hong Kong,16,24,5,FULLY OPERATIONAL
+Incheon International,South Korea,19,26,6,FULLY OPERATIONAL
+Tokyo Narita,Japan,17,23,5,FULLY OPERATIONAL
